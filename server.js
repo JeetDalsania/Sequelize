@@ -23,4 +23,6 @@ async function bootServer() {
   }
 }
 
+const staticFolder = 'public';
+
 bootServer();
